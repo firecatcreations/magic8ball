@@ -13,6 +13,8 @@ body {
 }
 .ball, .button {
   margin: 0 auto;
+  position: center;
+
 }
 .answer {
   position:absolute;
@@ -24,6 +26,7 @@ body {
   font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
   color: #222;
   text-transform: uppercase;
+  align-content: center;
 }
 
 #questionButton {
